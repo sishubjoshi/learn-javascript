@@ -15,7 +15,7 @@ minNum.textContent = min;
 maxNum.textContent = max;
 
 
-guessBtn.addEventListener('click', function() {
+guessBtn.addEventListener('click', () => {
     let guess = parseInt(guessInput.value);
 
     if (isNaN(guess) || guess < 1 || guess > 10) {
