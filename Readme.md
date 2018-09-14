@@ -1,10 +1,9 @@
-## Learn-JavaScript
+# learn-javascript
+>>> my javascript learning journey
 
->This repository contains the projects I made during my learning journey and also some of the files which I consider important for future reference.
+Here are the projects I made while my javascript learning journey...
 
 
-### List Of Projects:
-* TaskList(_a to-do app_)
-* Number_Guesser(_simple number guessing game_)
-* OOP_BookList(_store books_:-) almost like the to-do app)
-* coming soon
+>>> Projects:
+  To-do App
+  Number Guesser

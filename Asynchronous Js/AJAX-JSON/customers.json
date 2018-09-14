@@ -1,0 +1,25 @@
+[{
+        "id": 1,
+        "name": "John Doe",
+        "company": "Google",
+        "phone": 7973254600
+    },
+    {
+        "id": 2,
+        "name": "Jane Doe",
+        "company": "Microsoft",
+        "phone": 7973254601
+    },
+    {
+        "id": 3,
+        "name": "Johnny Doe",
+        "company": "Apple",
+        "phone": 7973254602
+    },
+    {
+        "id": 4,
+        "name": "Johnty Rhodes",
+        "company": "Supercell",
+        "phone": 7973254603
+    }
+]
