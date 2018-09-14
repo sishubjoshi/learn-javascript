@@ -1,9 +1,12 @@
 # learn-javascript
->>> my javascript learning journey
-
-Here are the projects I made while my javascript learning journey...
+> My Javascript learning journey
 
 
->>> Projects:
-  To-do App
-  Number Guesser
+> ## Things I learned:
+  * Object Oriented Javascript( classes, objects, prototype, prototypal inheritance)
+  * Asynchronous Javascript ( AJAX, JSON, working with API's ..... )
+  
+  
+  ## Projects:
+  * To-do App
+  * Number Guesser
